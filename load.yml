@@ -3,5 +3,10 @@
 Folder_Load_Path: "~/go_straight/dict/"
 File_Load_Path: "~/go_straight/dict/ruby_dict"
 
-# Folder_Load_Path: "Custom Path Setting"
-# File_Load_Path: "Custom Path Setting"
+# Custom Settings
+# Folder_Load_Path: "Custom Dictionary Path Setting"
+# File_Load_Path: "Custom Dictionary Path Setting"
+
+# load.yml
+# Folder_Load_Path: "~/ruby-dictionary3/autoload/source/"
+# File_Load_Path: "~/ruby-dictionary3/autoload/source/ruby_method_deoplete"
