@@ -1,7 +1,7 @@
 # configuration
 
 Folder_Load_Path: "~/config/dict/"
-File_Load_Path: "~/config/dict/ruby_dict"
+File_Load_Path: "~/config/dict/ruby_dict.csv"
 
 # Custom Settings
 # Folder_Load_Path: "Custom Dictionary Path Setting"

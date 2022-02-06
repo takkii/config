@@ -395,7 +395,7 @@ datadir
 Date
 DateTime
 DateTime.now.strftime('%Y-%m-%d %H:%M:%S')
-DateTime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
+"DateTime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')"
 day
 day_fraction
 DecimalInteger
@@ -723,7 +723,7 @@ external_encoding
 extname
 fail
 FALSE
-false
+FALSE
 FalseClass
 fcntl
 fdatasync
@@ -1626,7 +1626,7 @@ trace_var
 transpose
 trap
 TRUE
-true
+TRUE
 TrueClass
 truncate
 trust
@@ -3216,7 +3216,7 @@ datadir
 Date
 DateTime
 DateTime.now.strftime('%Y-%m-%d %H:%M:%S')
-DateTime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
+"DateTime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')"
 day
 day_fraction
 DecimalInteger
@@ -3544,7 +3544,7 @@ external_encoding
 extname
 fail
 FALSE
-false
+FALSE
 FalseClass
 fcntl
 fdatasync
@@ -4447,7 +4447,7 @@ trace_var
 transpose
 trap
 TRUE
-true
+TRUE
 TrueClass
 truncate
 trust
