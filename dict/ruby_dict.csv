@@ -3330,3 +3330,7 @@ zone=
 zoom
 FALSE
 TRUE
+require 'minitest/runner'
+require 'minitest/mini_runner'
+require 'minitest/full_runner'
+require 'minitest/full_mini_runner'
