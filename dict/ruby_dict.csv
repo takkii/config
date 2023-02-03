@@ -2502,6 +2502,10 @@ require 'himekuri.o'
 require 'himekuri2'
 require 'himekuri2/version'
 require 'himekurits'
+require 'minitest/full_mini_runner'
+require 'minitest/full_runner'
+require 'minitest/mini_runner'
+require 'minitest/runner'
 require 'tanraku'
 require_relative
 REQUIRED_ARGUMENT
@@ -3330,7 +3334,3 @@ zone=
 zoom
 FALSE
 TRUE
-require 'minitest/runner'
-require 'minitest/mini_runner'
-require 'minitest/full_runner'
-require 'minitest/full_mini_runner'
