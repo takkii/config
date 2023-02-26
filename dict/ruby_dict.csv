@@ -1144,6 +1144,7 @@ fiddle/value.rb
 fiddle/version.rb
 fields_for
 File
+File.dirname(__FILE__)
 file?
 file_field
 file_field_tag
@@ -2497,9 +2498,6 @@ request_set/lockfile/parser.rb
 request_set/lockfile/tokenizer.rb
 RequestSet
 require
-"require ""#{File.dirname(__FILE__)}/"""
-"require ""#{File.dirname(__FILE__)}/mini_test"""
-"require ""#{File.dirname(__FILE__)}/minitest"""
 require 'himekuri'
 require 'himekuri.o'
 require 'himekuri2'
