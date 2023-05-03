@@ -1,8 +1,8 @@
-# configuration
+# Configuration.
 Folder_Load: "~/config/dict/"
 File_Load: "~/config/dict/ruby_dict.csv"
 
-# Real and Phantom, Settings
+# Phantom and Real, Custom Folder PATH.
 Except_Folder_load: '~/phantom'
 Except_File_load: '~/phantom/phantom_error.log'
 
