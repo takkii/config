@@ -1,15 +1,15 @@
-# Configuration.
-Folder_Load: "~/config/dict/"
-File_Load: "~/config/dict/ruby_dict.csv"
+# CSV Configuration Load PATH.
+Folder_Load: '~/config/dict/'
+File_Load: '~/config/dict/ruby_dict.csv'
 
-# Phantom and Real, Custom Folder PATH.
+# Use Private repo Phantom, Custom Folder/File PATH.
 Except_Folder_load: '~/phantom'
 Except_File_load: '~/phantom/phantom_error.log'
 
-# Custom Settings
-# Folder_Load_Path: "Custom Dictionary Path Setting"
-# File_Load_Path: "Custom Dictionary Path Setting"
+## Custom Settings
+# Folder_Load: 'Custom Dictionary Path Setting'
+# File_Load: 'Custom Dictionary Path Setting'
 
-# load.yml
-# Folder_Load_Path: "~/ruby-dictionary3/autoload/source/"
-# File_Load_Path: "~/ruby-dictionary3/autoload/source/ruby_method_deoplete"
+## Use ruby-dictionary3 Custom Folder/File PATH.
+# Folder_Load: '~/ruby-dictionary3/autoload/source/'
+# File_Load: '~/ruby-dictionary3/autoload/source/ruby_method_deoplete'
