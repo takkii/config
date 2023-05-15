@@ -3,12 +3,12 @@ Folder_Load: '~/config/dict/'
 File_Load: '~/config/dict/ruby_dict.csv'
 
 # Use Private repo Phantom, Custom Folder/File PATH.
-Except_Folder_load: '~/phantom'
-Except_File_load: '~/phantom/phantom_error.log'
+# Except_Folder_load: '~/phantom'
+# Except_File_load: '~/phantom/phantom_error.log'
 
 # Use Public repo Real, Please Make Folder.
-Pub_Except_Folder_load: '~/real_log'
-pub_Except_File_load: '~/real_log/real_error.log'
+Except_Folder_load: '~/real_log'
+Except_File_load: '~/real_log/real_error.log'
 
 ## Custom Settings
 # Folder_Load: 'Custom Dictionary Path Setting'
