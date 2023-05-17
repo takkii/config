@@ -19,6 +19,6 @@ LICENSE)[![GitHub release](https://img.shields.io/github/release/takkii/config.s
 </div>
 <br />
 <div align="center">
-    <b> Copyright (c) 2021-2022 Takayuki Kamiyama </b>
+    <b> Copyright (c) 2021 ~ 2023 Takayuki Kamiyama </b>
     <p> Please readme, See the <a href="https://github.com/takkii/config/wiki/memo">wiki</a> for how to use config. </p>
 </div>
