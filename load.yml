@@ -1,6 +1,10 @@
 # CSV Configuration Load PATH.
-Folder_Load: '~/config/dict/'
-File_Load: '~/config/dict/ruby_dict.csv'
+
+# Folder_Load: '~/config/dict/'
+# File_Load: '~/config/dict/ruby_dict.csv'
+
+Folder_Load: '~/.neovim/plugged/config/dict/'
+File_Load: '~/.neovim/plugged/config/dict/ruby_dict.csv'
 
 # Use Private repo Phantom, Custom Folder/File PATH.
 # Except_Folder_load: '~/phantom'
