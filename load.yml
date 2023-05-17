@@ -11,7 +11,7 @@ File_Load: '~/.neovim/plugged/config/dict/ruby_dict.csv'
 # Except_File_load: '~/phantom/phantom_error.log'
 
 # Use Public repo Real, Please Make Folder.
-Except_Folder_load: '~/real_log'
+Except_Folder_load: '~/real_log/'
 Except_File_load: '~/real_log/real_error.log'
 
 ## Custom Settings
