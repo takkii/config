@@ -1,14 +1,16 @@
 # CSV Configuration Load PATH.
 
-# Folder_Load: '~/config/dict/'
-# File_Load: '~/config/dict/ruby_dict.csv'
+# Use go_straight and phantom.
+Home_Folder: '~/config/dict/'
+Home_File: '~/config/dict/ruby_dict.csv'
 
+# Use vim-plug to real.
 Folder_Load: '~/.neovim/plugged/config/dict/'
 File_Load: '~/.neovim/plugged/config/dict/ruby_dict.csv'
 
 # Use Private repo Phantom, Custom Folder/File PATH.
-# Except_Folder_load: '~/phantom'
-# Except_File_load: '~/phantom/phantom_error.log'
+Pri_Except_Folder: '~/phantom'
+Pri_Except_File: '~/phantom/phantom_error.log'
 
 # Use Public repo Real, Please Make Folder.
 Except_Folder_load: '~/real_log/'
