@@ -64,9 +64,9 @@ assert_options
 atan
 atan2
 atanh
+base_convert
 base64_decode
 base64_encode
-base_convert
 basename
 bcadd
 bccomp
@@ -219,6 +219,7 @@ doubleval
 each
 easter_date
 easter_days
+echo
 end
 error_clear_last
 error_get_last
