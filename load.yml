@@ -2,15 +2,17 @@
 
 # Use go_straight and phantom.
 Home_File: '~/config/dict/ruby_dict.csv'
+PHP_HOME: '~/config/dict/php_dict.csv'
 
 # Use vim-plug to real.
 File_Load: '~/.neovim/plugged/config/dict/ruby_dict.csv'
+PHP_File: '~/.neovim/plugged/config/dict/php_dict.csv'
 
-# Use Private repo Phantom, Custom Folder/File PATH.
-Pri_Except_Folder: '~/phantom/'
-Pri_Except_File: '~/phantom/phantom_error.log'
+# repo Phantom, Custom Folder/File PATH.
+PHP_Except_Folder: '~/phantom_log/'
+PHP_Except_File: '~/phantom_log/phantom_error.log'
 
-# Use Public repo Real, Please Make Folder.
+# repo Real, Please Make Folder.
 Except_Folder_load: '~/real_log/'
 Except_File_load: '~/real_log/real_error.log'
 
