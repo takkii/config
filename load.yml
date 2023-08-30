@@ -16,6 +16,10 @@ PHP_Except_File: '~/phantom_log/phantom_error.log'
 Except_Folder_load: '~/real_log/'
 Except_File_load: '~/real_log/real_error.log'
 
+# repo go_straight, Please Make Folder.
+SKL_Folder_load: '~/go_straight_log/'
+SKL_File_load: '~/go_straight_log/go_straight_error.log'
+
 ## Custom Settings
 # Folder_Load: 'Custom Dictionary Path Setting'
 # File_Load: 'Custom Dictionary Path Setting'
