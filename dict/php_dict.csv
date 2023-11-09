@@ -188,6 +188,7 @@ curl_share_setopt
 curl_share_strerror
 curl_strerror
 curl_unescape
+curl_upkeep
 curl_version
 current
 date
