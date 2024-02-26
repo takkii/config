@@ -4,17 +4,12 @@
 Home_File: '~/config/dict/ruby_dict.csv'
 PHP_HOME: '~/config/dict/php_dict.csv'
 
-# Use vim-plug to real.
-File_Load: '~/.neovim/plugged/config/dict/ruby_dict.csv'
+# Use vim-plug to phantom.
 PHP_File: '~/.neovim/plugged/config/dict/php_dict.csv'
 
 # repo Phantom, Custom Folder/File PATH.
 PHP_Except_Folder: '~/phantom_log/'
 PHP_Except_File: '~/phantom_log/phantom_error.log'
-
-# repo Real, Please Make Folder.
-Except_Folder_load: '~/real_log/'
-Except_File_load: '~/real_log/real_error.log'
 
 # repo go_straight, Please Make Folder.
 SKL_Folder_load: '~/go_straight_log/'
