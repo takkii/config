@@ -1,7 +1,11 @@
 # CSV Configuration Load PATH.
 
-# Use go_straight and phantom.
+# Use go_straight.
 Home_File: '~/config/dict/ruby_dict.csv'
+VimPlug_Neovim: '~/.neovim/plugged/config/dict/ruby_dict.csv'
+VimPlug_Vim: '~/.vim/plugged/config/dict/ruby_dict.csv'
+
+# Use phantom.
 PHP_HOME: '~/config/dict/php_dict.csv'
 
 # Use vim-plug to phantom.
