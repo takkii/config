@@ -5,12 +5,6 @@ Home_File: '~/config/dict/ruby_dict.csv'
 VimPlug_Neovim: '~/.neovim/plugged/config/dict/ruby_dict.csv'
 VimPlug_Vim: '~/.vim/plugged/config/dict/ruby_dict.csv'
 
-# Use phantom.
-PHP_HOME: '~/config/dict/php_dict.csv'
-
-# Use vim-plug to phantom.
-PHP_File: '~/.neovim/plugged/config/dict/php_dict.csv'
-
 # repo Phantom, Custom Folder/File PATH.
 PHP_Except_Folder: '~/phantom_log/'
 PHP_Except_File: '~/phantom_log/phantom_error.log'
