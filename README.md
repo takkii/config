@@ -8,7 +8,7 @@ LICENSE) [![GitHub release](https://img.shields.io/github/release/takkii/config.
 <br />
 
 <div align="center">
-    <p> photo by <a href="https://github.com/takkii/photo">写真庫</a></p>
+    <p> by <a href="https://github.com/takkii/photo">photo</a></p>
 </div>
 
 <br />
@@ -26,6 +26,6 @@ LICENSE) [![GitHub release](https://img.shields.io/github/release/takkii/config.
 <br />
 
 <div align="center">
-    <b> Copyright (c) 2021 ~ 2023 Takayuki Kamiyama </b>
+    <b> Copyright (c) 2021 ~ 2024 Takayuki Kamiyama </b>
     <p> Please readme, See the <a href="https://github.com/takkii/config/wiki/memo">wiki</a> for how to use config. </p>
 </div>
