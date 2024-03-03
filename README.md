@@ -15,8 +15,6 @@ LICENSE) [![GitHub release](https://img.shields.io/github/release/takkii/config.
 
 <div align="center">
     <p> config use <a href="https://github.com/takkii/go_straight">go_straight</a></p>
-    <p> config use <a href="https://github.com/takkii/real">real</a></p>
-    <p> config use <a href="https://github.com/takkii/phantom">phantom</a></p>
 </div>
 
 <br />
